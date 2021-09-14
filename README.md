@@ -13,7 +13,8 @@
 * 工具栏、鼠标右键菜单
 * 多种类型节点、连线的添加/删除
 * 节点的图片的缩放与调整
-* 鼠标经过节点显示tooltip信息
+* 鼠标经过节点显示相关属性信息
+* 拓扑图节点命名
 
 ## 项目依赖
 * [jQuery](https://jquery.com/)
@@ -24,7 +25,7 @@
 ## 项目结构
 ```
 .
-├── json                    // 模拟数据,实际使用中用ajax代替
+├── json                    // json数据
 ├── screenshots             // 项目截图(无用)
 ├── static
 |   ├── font-awesome-4.7.0
@@ -42,7 +43,3 @@
 ├── 其它
 |
 ```
-
-
-## 官方API文档补充
-* 参见 [官方API文档补充.txt](https://github.com/wenyuan/jtopo_topology/blob/master/官方API文档补充.txt)
