@@ -6,7 +6,7 @@
 ## 预览
 预览方式： </br>
 下载该项目代码，用webstorm打开即可预览（或用其他内置http服务器的IDE打开） </br>
-![image](https://github.com/wenyuan/jtopo_topology/blob/master/screenshots/topology.png)
+![topo](C:\Users\ThinkPad\Desktop\jtopo_network\screenshots\topo.png)
 
 ## 实现功能
 * 拓扑图的加载
@@ -42,34 +42,6 @@
 ├── 其它
 |
 ```
-
-
-## 提交记录
-* 2019.03.22
-  * 更新与修复demo页面的bug（本次提交未对jtopo源码做修改，仅是demo页面的更新）
-* 2018.08.23
-  * 拓扑图连线(Link)属性编辑
-  * 修改源码, 做反序列化保护,防undefined(之前需要在调用方做保护)
-  * 修改源码, 新增以图片形式导出拓扑图
-* 2018.08.02
-  * 修改源码, 使序列化的时候支持节点属性值为json对象 
-* 2018.07.04
-  * 拓扑图节点(Node)属性编辑
-  * 节点tooltip的触发与显示
-  * 编辑和非编辑模式切换
-  * 代码部分重构
-* 2018.06.29
-  * 节点和连线的添加删除
-  * 拓扑图序列化
-  * 右键菜单和功能
-  * 前端页面部分组件化整理
-
-
-## Vue版本拓扑图
-> 等有时间了从项目中剥离出来，将在本项目基础上另起一个分支
-
-## vue版本预览
-![image](https://github.com/wenyuan/jtopo_topology/blob/master/screenshots/topology.gif)
 
 
 ## 官方API文档补充
