@@ -1,13 +1,3 @@
-# jTopo Topology
-> 基于jtopo二次封装，修复了一些bug。
-> 便于直接使用，也可以稍作修改后应用到各前端框架中。 </br>
-> 纯前端项目，所有ajax接口保留，采用模拟数据，实际开发过程中稍作修改即可对接后端。
-
-## 预览
-预览方式： </br>
-下载该项目代码，用webstorm打开即可预览（或用其他内置http服务器的IDE打开） </br>
-![topo](https://github.com/rainuxs/jtopo_network/blob/main/screenshots/topo.png)
-
 ## 实现功能
 * 拓扑图的加载
 * 工具栏、鼠标右键菜单
