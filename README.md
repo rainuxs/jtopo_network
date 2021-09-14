@@ -6,7 +6,7 @@
 ## 预览
 预览方式： </br>
 下载该项目代码，用webstorm打开即可预览（或用其他内置http服务器的IDE打开） </br>
-![topo](C:\Users\ThinkPad\Desktop\jtopo_network\screenshots\topo.png)
+![topo](https://github.com/rainuxs/jtopo_network/blob/main/screenshots/topo.png)
 
 ## 实现功能
 * 拓扑图的加载
